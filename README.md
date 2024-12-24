@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama keakaty</h1>
-<h3 align="center">A passionate frontend developer specializing in building dynamic web applications using React. I love creating user-friendly interfaces that provide seamless experiences for users. 🌟 </h3>
+<h3 align="center">A passionate front-end developer specializing in building dynamic web applications using React. I love creating user-friendly interfaces that provide seamless experiences for users. 🌟 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-keakaty&label=Profile%20views&color=0e75b6&style=flat" alt="osama-keakaty" /> </p>
 
@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/osama keakaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama keakaty" height="30" width="40" /></a>
-<a href="https://fb.com/osama keakaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama keakaty" height="30" width="40" /></a>
-<a href="https://instagram.com/osama keakaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama keakaty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/osamakeakaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama keakaty" height="30" width="40" /></a>
+<a href="https://fb.com/osama.keakaty.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama keakaty" height="30" width="40" /></a>
+<a href="https://instagram.com/osama_keakaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama keakaty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
